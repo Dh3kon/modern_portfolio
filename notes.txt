@@ -5,4 +5,4 @@ npm i node-sass
 change test in package.json to sass and npm run sass to test
 rewrite the test parameter in package.json to run with sass and run it again
 create a .gitignore file
-initialize a git repository
+initialize a git repository and add the project
