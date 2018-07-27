@@ -1,10 +1,6 @@
 @import "config";
 @import "menu";
 
-html {
-  font-size: 10px;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -32,7 +28,7 @@ h3 {
 
   &.sm-heading {
     margin-bottom: 2rem;
-    padding: 0.2rem;
+    padding: 0.2rem 1rem;
     background: rgba(lighten($color: $primary-color, $amount: 2), 0.5);
   }
 }
